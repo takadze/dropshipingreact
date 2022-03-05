@@ -1,0 +1,45 @@
+.section-3-cards{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(218,218,218,.12);
+    width: 100%;
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgba(71,133,238,.2);
+}
+.card-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin: 20px;
+}
+.card-3-img-4{
+    background-image: url(../src/img/card-3-img.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 230px;
+    height: 200px;
+}
+.card-3 div{
+    padding: 10px;
+}
+.card-3-title h2{
+    margin-left: 20px;
+    color: #49547d;
+    font-size: 19px;
+    font-weight: 900;
+}
+.card-3-title h5{
+    
+    color: #49547d;
+    font-size: 15px;
+    font-weight: 100;
+    margin: 20px;
+}
+.card-3-title span{
+    color: #49547d;
+    font-size: 15px;
+    font-weight: 800;
+}
